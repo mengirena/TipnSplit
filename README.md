@@ -1,10 +1,12 @@
-# Tip calculator
+# Tip and Split
+
+This is a tip calculator. You can also use it to calculate how much you 
 
 ## Demo
 
-<img src="https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif" width="300px">
-
 [Site](https://tipnsplit.netlify.app)
+
+<img src="https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif" width="300px">
 
 ## How it's built
 
