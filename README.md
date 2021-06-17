@@ -1,6 +1,6 @@
 # Tip and Split
 
-This is a tip calculator. You can also use it to calculate how much you 
+This is a tip calculator. You can also use it to calculate the amount to split with your friends.
 
 ## Demo
 
