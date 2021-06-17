@@ -1,6 +1,8 @@
 # Tip calculator
 
 ## Demo
+![demo](https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif)
+
 
 ## How it's built
 
