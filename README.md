@@ -1,8 +1,9 @@
 # Tip calculator
 
 ## Demo
-<img src="https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif" width="100px">
-![demo](https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif)
+
+<img src="https://user-images.githubusercontent.com/51871665/122467437-5b98eb80-cf6f-11eb-9075-2d020f8e09bd.gif" width="300px">
+
 [Site](https://tipnsplit.netlify.app)
 
 ## How it's built
